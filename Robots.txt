@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: 
+
+Sitemap: https://oentegrasyon.github.io/linux-quiz/sitemap.xml

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://oentegrasyon.github.io/linux-quiz/</title>
+  <link>https://oentegrasyon.github.io/linux-quiz/</link>
+
+<item>
+     <link>https://oentegrasyon.github.io/linux-quiz/</link>
+     <title>Random Knowledge Quiz</title>
+     <description>Random Knowledge Quiz</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://oentegrasyon.github.io/linux-quiz/cookies.html</link>
+     <title>Linux Quiz</title>
+     <description>Linux Quiz</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://oentegrasyon.github.io/linux-quiz/index.html</link>
+     <title>Random Knowledge Quiz</title>
+     <description>Random Knowledge Quiz</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
